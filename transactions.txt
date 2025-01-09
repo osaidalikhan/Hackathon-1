@@ -1,4 +1,0 @@
-Account No: PK01, Transaction: Deposit, Amount: $500.0, New Balance: $500.0
-Account No: PK01, Transaction: Deposit, Amount: $500.0, New Balance: $500.0
-Account No: PK01, Transaction: Deposit, Amount: $500.0, New Balance: $500.0
-Account No: PK01, Transaction: Deposit, Amount: $530.0, New Balance: $530.0
