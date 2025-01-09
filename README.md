@@ -1,1 +1,1 @@
-# This notebook creates a Banking System using Object-Oriented Programming(OOP) in Python. This project includes functionalities for users to perform banking operations and for the bank (admin) to manage accounts and view financial statistics.
+# This notebook creates a Banking System using Object Oriented Programming(OOP) in Python. This project includes functionalities for users to perform banking operations and for the bank (admin) to manage accounts and view financial statistics.
